@@ -118,6 +118,5 @@ st.markdown("""
 <div style='text-align: center'>
 <b>Dibuat oleh:</b> Faishal IR <br>
 <b>Teknologi:</b> Python, Streamlit, TF-IDF, Logistic Regression, NLP <br>
-<b>Tujuan:</b> Project Portofolio Machine Learning
 </div>
 """, unsafe_allow_html=True)
